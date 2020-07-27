@@ -2,7 +2,7 @@
 To write a python function that takes in the wikipedia, kaggle, and ratings data and cleans it then uploads the dataframes to sequel.
 
 ## Findings
-we get a list of 7033 rows of movies, although not all of them have values for each column.
+we get a list of 7311 rows of movies, although not all of them have values for each column.
 
 ## Assumptions
 When cleaning the data some assumptions are made to eliminate bad data in the sets.
